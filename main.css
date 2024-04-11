@@ -1,3 +1,21 @@
+
+
+/* 
+TODO (TM) 1 : set body to 90% and center it on page
+TODO (TM) 2 : center the title 
+TODO (TM) 3 : make the textarea width 100% and give it 20 rows
+TODO (TM) 4 : make the placeholder text color blue
+TODO (TM) 5 : make the font size 1.5 rem  
+TODO (TM) 6 : make the font-family Arial, Helvetica, sans-serif
+TODO (TM) 7 : style the buttons:
+                - background green
+                - font color white
+                - give it padding 
+                - make it font size 1.5 rem
+
+*/
+
 body{
   background-color: lightcoral;
+  width: 90%
 }
