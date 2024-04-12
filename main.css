@@ -19,3 +19,9 @@ body{
   background-color: lightcoral;
   width: 90%
 }
+
+.outerbox{
+ margin-left: 800px;
+ margin-right: 600px;
+ margin-top: 200px;
+}
